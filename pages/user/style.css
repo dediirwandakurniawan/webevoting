@@ -1,0 +1,11 @@
+.image-dipilih {
+  filter: grayscale(100%);
+}
+
+.card-columns {
+  column-count: 6;
+}
+
+.card-blur {
+  opacity: 0.4;
+}
